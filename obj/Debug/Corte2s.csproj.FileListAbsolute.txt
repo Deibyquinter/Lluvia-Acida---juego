@@ -1,0 +1,10 @@
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\bin\Debug\Corte2s.exe.config
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\bin\Debug\Corte2s.exe
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\bin\Debug\Corte2s.pdb
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.csproj.AssemblyReference.cache
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.Properties.Resources.resources
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.csproj.GenerateResource.cache
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.csproj.CoreCompileInputs.cache
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.exe
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.pdb
+C:\Users\R5\Documents\Visual Studio 2022\Corte2s\obj\Debug\Corte2s.Juego.resources
